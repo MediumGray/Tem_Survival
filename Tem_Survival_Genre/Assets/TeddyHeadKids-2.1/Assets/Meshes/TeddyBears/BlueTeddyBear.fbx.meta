@@ -1,0 +1,1494 @@
+fileFormatVersion: 2
+guid: 9a46d5fde5f96fd4493a8885e36c2788
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: BeezerBear
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: BlueTeddyBearBones
+  - first:
+      1: 100006
+    second: breast.L
+  - first:
+      1: 100008
+    second: breast.L_end
+  - first:
+      1: 100010
+    second: breast.R
+  - first:
+      1: 100012
+    second: breast.R_end
+  - first:
+      1: 100014
+    second: forearm.L
+  - first:
+      1: 100016
+    second: forearm.R
+  - first:
+      1: 100018
+    second: hand.L
+  - first:
+      1: 100020
+    second: hand.L_end
+  - first:
+      1: 100022
+    second: hand.R
+  - first:
+      1: 100024
+    second: hand.R_end
+  - first:
+      1: 100026
+    second: pelvis.L
+  - first:
+      1: 100028
+    second: pelvis.L_end
+  - first:
+      1: 100030
+    second: pelvis.R
+  - first:
+      1: 100032
+    second: pelvis.R_end
+  - first:
+      1: 100034
+    second: shin.L
+  - first:
+      1: 100036
+    second: shin.L_end
+  - first:
+      1: 100038
+    second: shin.R
+  - first:
+      1: 100040
+    second: shin.R_end
+  - first:
+      1: 100042
+    second: spine
+  - first:
+      1: 100044
+    second: spine.001
+  - first:
+      1: 100046
+    second: spine.002
+  - first:
+      1: 100048
+    second: spine.003
+  - first:
+      1: 100050
+    second: spine.004
+  - first:
+      1: 100052
+    second: spine.005
+  - first:
+      1: 100054
+    second: spine.006
+  - first:
+      1: 100056
+    second: spine.006_end
+  - first:
+      1: 100058
+    second: thigh.L
+  - first:
+      1: 100060
+    second: thigh.R
+  - first:
+      4: 400000
+    second: BeezerBear
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: BlueTeddyBearBones
+  - first:
+      4: 400006
+    second: breast.L
+  - first:
+      4: 400008
+    second: breast.L_end
+  - first:
+      4: 400010
+    second: breast.R
+  - first:
+      4: 400012
+    second: breast.R_end
+  - first:
+      4: 400014
+    second: forearm.L
+  - first:
+      4: 400016
+    second: forearm.R
+  - first:
+      4: 400018
+    second: hand.L
+  - first:
+      4: 400020
+    second: hand.L_end
+  - first:
+      4: 400022
+    second: hand.R
+  - first:
+      4: 400024
+    second: hand.R_end
+  - first:
+      4: 400026
+    second: pelvis.L
+  - first:
+      4: 400028
+    second: pelvis.L_end
+  - first:
+      4: 400030
+    second: pelvis.R
+  - first:
+      4: 400032
+    second: pelvis.R_end
+  - first:
+      4: 400034
+    second: shin.L
+  - first:
+      4: 400036
+    second: shin.L_end
+  - first:
+      4: 400038
+    second: shin.R
+  - first:
+      4: 400040
+    second: shin.R_end
+  - first:
+      4: 400042
+    second: spine
+  - first:
+      4: 400044
+    second: spine.001
+  - first:
+      4: 400046
+    second: spine.002
+  - first:
+      4: 400048
+    second: spine.003
+  - first:
+      4: 400050
+    second: spine.004
+  - first:
+      4: 400052
+    second: spine.005
+  - first:
+      4: 400054
+    second: spine.006
+  - first:
+      4: 400056
+    second: spine.006_end
+  - first:
+      4: 400058
+    second: thigh.L
+  - first:
+      4: 400060
+    second: thigh.R
+  - first:
+      43: 4300000
+    second: BeezerBear
+  - first:
+      74: 7400000
+    second: pose
+  - first:
+      74: 7400002
+    second: Celebrate
+  - first:
+      74: 7400004
+    second: FallBWD
+  - first:
+      74: 7400006
+    second: Idle
+  - first:
+      74: 7400008
+    second: Idle2
+  - first:
+      74: 7400010
+    second: IdleSitting
+  - first:
+      74: 7400012
+    second: Jump
+  - first:
+      74: 7400014
+    second: Run
+  - first:
+      74: 7400016
+    second: TurnOnSpot180
+  - first:
+      74: 7400018
+    second: TurnOnSpot90
+  - first:
+      74: 7400020
+    second: Walk
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: BeezerBear
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftFoot' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: pose
+      takeName: BlueTeddyBearBones|Apose
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BeezerBear
+        weight: 1
+      - path: BlueTeddyBearBones
+        weight: 1
+      - path: BlueTeddyBearBones/spine
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L/pelvis.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R/pelvis.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L/breast.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R/breast.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.006_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L/shin.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Celebrate
+      takeName: BlueTeddyBearBones|Celebrate
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BeezerBear
+        weight: 1
+      - path: BlueTeddyBearBones
+        weight: 1
+      - path: BlueTeddyBearBones/spine
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L/pelvis.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R/pelvis.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L/breast.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R/breast.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.006_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L/shin.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FallBWD
+      takeName: BlueTeddyBearBones|FallBWD
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BeezerBear
+        weight: 1
+      - path: BlueTeddyBearBones
+        weight: 1
+      - path: BlueTeddyBearBones/spine
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L/pelvis.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R/pelvis.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L/breast.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R/breast.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.006_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L/shin.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: BlueTeddyBearBones|Idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BeezerBear
+        weight: 1
+      - path: BlueTeddyBearBones
+        weight: 1
+      - path: BlueTeddyBearBones/spine
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L/pelvis.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R/pelvis.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L/breast.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R/breast.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.006_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L/shin.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle2
+      takeName: BlueTeddyBearBones|Idle2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BeezerBear
+        weight: 1
+      - path: BlueTeddyBearBones
+        weight: 1
+      - path: BlueTeddyBearBones/spine
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L/pelvis.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R/pelvis.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L/breast.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R/breast.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.006_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L/shin.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: IdleSitting
+      takeName: BlueTeddyBearBones|IdleSitting
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BeezerBear
+        weight: 1
+      - path: BlueTeddyBearBones
+        weight: 1
+      - path: BlueTeddyBearBones/spine
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L/pelvis.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R/pelvis.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L/breast.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R/breast.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.006_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L/shin.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: BlueTeddyBearBones|Jump
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BeezerBear
+        weight: 1
+      - path: BlueTeddyBearBones
+        weight: 1
+      - path: BlueTeddyBearBones/spine
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L/pelvis.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R/pelvis.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L/breast.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R/breast.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.006_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L/shin.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: BlueTeddyBearBones|Run
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BeezerBear
+        weight: 1
+      - path: BlueTeddyBearBones
+        weight: 1
+      - path: BlueTeddyBearBones/spine
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L/pelvis.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R/pelvis.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L/breast.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R/breast.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.006_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L/shin.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TurnOnSpot180
+      takeName: BlueTeddyBearBones|TurnOnSpot180
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 26
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BeezerBear
+        weight: 1
+      - path: BlueTeddyBearBones
+        weight: 1
+      - path: BlueTeddyBearBones/spine
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L/pelvis.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R/pelvis.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L/breast.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R/breast.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.006_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L/shin.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TurnOnSpot90
+      takeName: BlueTeddyBearBones|TurnOnSpot90
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 26
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BeezerBear
+        weight: 1
+      - path: BlueTeddyBearBones
+        weight: 1
+      - path: BlueTeddyBearBones/spine
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L/pelvis.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R/pelvis.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L/breast.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R/breast.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.006_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L/shin.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: BlueTeddyBearBones|Walk
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BeezerBear
+        weight: 1
+      - path: BlueTeddyBearBones
+        weight: 1
+      - path: BlueTeddyBearBones/spine
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.L/pelvis.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/pelvis.R/pelvis.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.L/breast.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/breast.R/breast.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.L/hand.L/hand.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/forearm.R/hand.R/hand.R_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006
+        weight: 1
+      - path: BlueTeddyBearBones/spine/spine.001/spine.002/spine.003/spine.004/spine.005/spine.006/spine.006_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.L/shin.L/shin.L_end
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R
+        weight: 1
+      - path: BlueTeddyBearBones/spine/thigh.R/shin.R/shin.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: BlueTeddyBear(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BlueTeddyBearBones
+      parentName: BlueTeddyBear(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: spine
+      parentName: BlueTeddyBearBones
+      position: {x: -5.0260053e-11, y: 0.0013843606, z: 0.011697209}
+      rotation: {x: 0.7904554, y: -0.00000014603589, z: -0.00000018845908, w: 0.61251956}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: spine.001
+      parentName: spine
+      position: {x: -5.3290704e-17, y: 0.0046362593, z: -2.980232e-10}
+      rotation: {x: -0.06447649, y: 0.000000118960976, z: 0.00000002305854, w: 0.99791926}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: spine.002
+      parentName: spine.001
+      position: {x: 4.440892e-18, y: 0.0041616457, z: 5.5879367e-11}
+      rotation: {x: -0.08077812, y: 0.00000011881974, z: 0.000000009629481, w: 0.9967321}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine.003
+      parentName: spine.002
+      position: {x: 3.4102975e-18, y: 0.00435593, z: -6.519258e-11}
+      rotation: {x: 0.0003805161, y: -3.552714e-14, z: 1.776357e-14, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine.004
+      parentName: spine.003
+      position: {x: -4.6754084e-19, y: 0.00444379, z: -2.3283063e-11}
+      rotation: {x: 0.10609611, y: -0.00000011853638, z: -0.000000012647631, w: 0.9943559}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: spine.005
+      parentName: spine.004
+      position: {x: 6.661338e-17, y: 0.004271174, z: -2.235174e-10}
+      rotation: {x: 0.0064063296, y: -7.1054274e-14, z: -0.0000000015273933, w: 0.9999795}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: spine.006
+      parentName: spine.005
+      position: {x: 8.437695e-17, y: 0.0019097372, z: 1.2212453e-17}
+      rotation: {x: -0.09371196, y: 4.8953473e-14, z: 0.000000022342675, w: 0.9955994}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: spine.006_end
+      parentName: spine.006
+      position: {x: -0, y: 0.016541578, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: forearm.L
+      parentName: spine.003
+      position: {x: -0.0074685845, y: 0.0076807956, z: 0.0024030565}
+      rotation: {x: 0.006590613, y: -0.026307767, z: 0.8105449, w: 0.5850483}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: hand.L
+      parentName: forearm.L
+      position: {x: -0.0000000036539858, y: 0.009211422, z: 1.11758706e-10}
+      rotation: {x: 0.015243434, y: 0.0046131713, z: -0.12649043, w: 0.99184006}
+      scale: {x: 1, y: 1.0000002, z: 0.9999998}
+    - name: hand.L_end
+      parentName: hand.L
+      position: {x: -0, y: 0.0070356983, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: forearm.R
+      parentName: spine.003
+      position: {x: 0.0074685845, y: 0.0076807956, z: 0.0024030565}
+      rotation: {x: -0.0065905782, y: -0.026307765, z: 0.8105446, w: -0.58504874}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: hand.R
+      parentName: forearm.R
+      position: {x: 0.0000000036539858, y: 0.009211422, z: 1.11758706e-10}
+      rotation: {x: 0.015243276, y: -0.0046132426, z: 0.12648971, w: 0.99184006}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.9999998}
+    - name: hand.R_end
+      parentName: hand.R
+      position: {x: -0, y: 0.0070356983, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: breast.L
+      parentName: spine.003
+      position: {x: -0.008964212, y: -0.0008853911, z: -0.001331823}
+      rotation: {x: -0.000000031485772, y: 0.6936508, z: 0.7203115, w: -0.000000030320418}
+      scale: {x: 0.99999964, y: 0.9999995, z: 0.9999998}
+    - name: breast.L_end
+      parentName: breast.L
+      position: {x: -0, y: 0.0042397166, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: breast.R
+      parentName: spine.003
+      position: {x: 0.008964212, y: -0.0008853911, z: -0.0013318232}
+      rotation: {x: -0.000000031485772, y: 0.6936508, z: 0.7203115, w: -0.000000030320418}
+      scale: {x: 0.99999964, y: 0.9999995, z: 0.9999998}
+    - name: breast.R_end
+      parentName: breast.R
+      position: {x: -0, y: 0.0042397166, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pelvis.L
+      parentName: spine
+      position: {x: -9.7699626e-17, y: 2.6077032e-10, z: -1.4901158e-10}
+      rotation: {x: -0.15245534, y: 0.7933307, z: 0.28550422, w: 0.5156268}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000001}
+    - name: pelvis.L_end
+      parentName: pelvis.L
+      position: {x: -0, y: 0.006315049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pelvis.R
+      parentName: spine
+      position: {x: 1.0052002e-10, y: 2.6077032e-10, z: -1.4901162e-10}
+      rotation: {x: -0.15245542, y: -0.79333055, z: -0.285504, w: 0.5156273}
+      scale: {x: 0.9999997, y: 0.9999998, z: 0.9999998}
+    - name: pelvis.R_end
+      parentName: pelvis.R
+      position: {x: -0, y: 0.006315049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh.L
+      parentName: spine
+      position: {x: -0.0072692134, y: 0.002303978, z: 0.00070760335}
+      rotation: {x: 0.9884486, y: -0.021212766, z: 0.0039912094, w: 0.15001146}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000036}
+    - name: shin.L
+      parentName: thigh.L
+      position: {x: 2.5982444e-10, y: 0.008397435, z: 1.1641532e-12}
+      rotation: {x: 0.07377308, y: -0.0023525944, z: -0.021456365, w: 0.99704146}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: shin.L_end
+      parentName: shin.L
+      position: {x: -0, y: 0.0045421473, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh.R
+      parentName: spine
+      position: {x: 0.0072692134, y: 0.002303978, z: 0.0007075963}
+      rotation: {x: 0.9884486, y: 0.021212844, z: -0.00399093, w: 0.15001146}
+      scale: {x: 1, y: 1.0000002, z: 0.99999815}
+    - name: shin.R
+      parentName: thigh.R
+      position: {x: 0.0000000014933903, y: 0.008397435, z: 1.8626451e-11}
+      rotation: {x: 0.07377308, y: 0.002352593, z: 0.021456372, w: 0.99704146}
+      scale: {x: 1, y: 1.0000002, z: 1.0000005}
+    - name: shin.R_end
+      parentName: shin.R
+      position: {x: -0, y: 0.0045421473, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BeezerBear
+      parentName: BlueTeddyBear(Clone)
+      position: {x: -0, y: 4.0867047, z: 0}
+      rotation: {x: -0.6598124, y: 3.2953217e-12, z: 1.0329042e-11, w: 0.75143045}
+      scale: {x: 86.71278, y: 86.71281, z: 86.712814}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
